@@ -4,4 +4,4 @@ Code and Data for Unequal Representations: Analyzing Intersectional Biases in Wo
 ## How to use this repository
 * Download the GloVe embeddings that were pretrained on Wikipedia 2014 + Gigaword 5 from this link: https://nlp.stanford.edu/projects/glove/
 * Ensure that this folder is named "glove", and place it in the glove_utils directory
-* Run all test scripts by calling python3 glove_Word_Tests.py/BERT_Sentence_Tests.py/BERT_Word_Tests.py
+* Run each test script by calling python3 {glove_Word_Tests.py/BERT_Sentence_Tests.py/BERT_Word_Tests.py}
